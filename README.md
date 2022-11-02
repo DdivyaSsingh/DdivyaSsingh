@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, Node.js, MERN, Full Stack Developer**
 
-- 📫 How to reach me **divyas.cm.19@nitj.ac.in**
+- 📫 How to reach me **ddivyassingh2000@gmail.com**
 
 
 
