@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [Apni Coaching](https://github.com/Making-Ice-Cream/bookish-octo-spork)
+- 🔭 I’m currently working on [Estatery Inc](https://estatery-inc.netlify.app/rent)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
 
