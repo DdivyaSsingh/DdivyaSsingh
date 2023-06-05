@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Divya Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [Estatery Inc](https://estatery-inc.netlify.app/rent)
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
+<!-- - 🔭 I’m currently working on [Estatery Inc](https://estatery-inc.netlify.app/rent) -->
+<!-- 
+- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/DdivyaSsingh?tab=repositories](https://github.com/DdivyaSsingh?tab=repositories)
 
-- 💬 Ask me about **React.js, Node.js, MERN, Full Stack Developer**
+- 💬 Ask me about ** DSA, DBMS, IoT, C/Cpp, HTML, CSS, JS, ML**
 
 - 📫 How to reach me **ddivyassingh2000@gmail.com**
 
